@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shreengai/React1-Average.git/static/css/main.5c57b4b3.css",
-    "main.js": "/shreengai/React1-Average.git/static/js/main.bfa0ade6.js",
-    "index.html": "/shreengai/React1-Average.git/index.html",
-    "main.5c57b4b3.css.map": "/shreengai/React1-Average.git/static/css/main.5c57b4b3.css.map",
-    "main.bfa0ade6.js.map": "/shreengai/React1-Average.git/static/js/main.bfa0ade6.js.map"
+    "main.css": "/React-Average/static/css/main.5c57b4b3.css",
+    "main.js": "/React-Average/static/js/main.bfa0ade6.js",
+    "index.html": "/React-Average/index.html",
+    "main.5c57b4b3.css.map": "/React-Average/static/css/main.5c57b4b3.css.map",
+    "main.bfa0ade6.js.map": "/React-Average/static/js/main.bfa0ade6.js.map"
   },
   "entrypoints": [
     "static/css/main.5c57b4b3.css",
